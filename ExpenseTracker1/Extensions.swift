@@ -8,6 +8,10 @@
 import Foundation
 import SwiftUI
 
+//extension Color {
+//    static let systemBackground = Color.systemBackground
+//}
+
 extension DateFormatter {
     static let allNumericUSA: DateFormatter = {
         let formatter = DateFormatter()
